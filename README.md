@@ -14,4 +14,4 @@ Tiimide suurus sõltub kogu huviliste arvust. Proovime lahendada suurema ülesan
 
 Robootikaprojektide täpsed teemad sõltuvad huviliste arvust. Üldiselt on plaan lahendada suurem ülesanne, mis tiimide töö tulemusena valmib. Täpne ülesanne selgub huviliste arvust. Üks potentsiaalne rakendus on Tarkvaratehnika robootikalaboris olev Phoebe robot.
 
-![Phoebe robot](https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg | width=200)
+<img src="https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg" width="200">
