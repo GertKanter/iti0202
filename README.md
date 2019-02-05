@@ -21,6 +21,6 @@ Teemavaldkonnad
 - Planeerimine
 - Simulatsioon
 
-<img src="https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg" width="300">
+<img src="https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg" width="400">
 
 Lisainfo jaoks kirjuta gert.kanter@taltech.ee
