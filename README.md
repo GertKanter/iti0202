@@ -20,6 +20,7 @@ Robootikaprojektide täpsed teemad sõltuvad huviliste arvust. Üldiselt on plaa
 - Navigatsioon
 - Planeerimine
 - Simulatsioon
+- ...
 
 <img src="https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg" width="400">
 
