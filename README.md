@@ -12,7 +12,7 @@ Tiimide suurus sõltub kogu huviliste arvust. Proovime lahendada suurema ülesan
 
 ## Teemad
 
-Robootikaprojektide täpsed teemad sõltuvad huviliste arvust. Üldiselt on plaan lahendada suurem ülesanne, mis tiimide töö tulemusena valmib. Täpne ülesanne selgub huviliste arvust. Üks potentsiaalne rakendus on Tarkvaratehnika robootikalaboris olev Phoebe robot.
+Robootikaprojektide täpsed teemad sõltuvad huviliste arvust. Üldiselt on plaan lahendada suurem ülesanne, mis tiimide töö tulemusena valmib. Täpsed ülesanded lepime kokku peale huviliste arvu selgumist. Üks potentsiaalne rakendus on Tarkvaratehnika robootikalaboris olev Phoebe robot.
 
 ### Teemavaldkonnad
 - Videotöötlus ja pildituvastus (punktipilved ja 2D pildid)
