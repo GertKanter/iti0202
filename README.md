@@ -14,4 +14,13 @@ Tiimide suurus sõltub kogu huviliste arvust. Proovime lahendada suurema ülesan
 
 Robootikaprojektide täpsed teemad sõltuvad huviliste arvust. Üldiselt on plaan lahendada suurem ülesanne, mis tiimide töö tulemusena valmib. Täpne ülesanne selgub huviliste arvust. Üks potentsiaalne rakendus on Tarkvaratehnika robootikalaboris olev Phoebe robot.
 
-<img src="https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg" width="200">
+Teemavaldkonnad
+- Videotöötlus ja pildituvastus (punktipilved ja 2D pildid)
+- Objektide haaramine ja liigutamine
+- Navigatsioon
+- Planeerimine
+- Simulatsioon
+
+<img src="https://raw.githubusercontent.com/GertKanter/iti0202/master/images/phoebe.jpg" width="300">
+
+Lisainfo jaoks kirjuta gert.kanter@taltech.ee
